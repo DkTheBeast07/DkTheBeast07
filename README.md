@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Koteswara Rao Dokkari
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/koteswara-rao-dokkari)
-[![Email](https://img.shields.io/badge/Email-Koteshd@gmail.com-red)](mailto:Koteshd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kotesh-dokkari-188605157/)
+[![Email](https://img.shields.io/badge/Email-Koteshd@gmail.com-red)](mailto:Koteshdokkari@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bangalore%2C%20India-green)](#)
 [![Phone](https://img.shields.io/badge/Phone-%2B91--9505280192-orange)](#)
 
