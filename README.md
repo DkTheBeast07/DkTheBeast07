@@ -1,112 +1,63 @@
-# Hi there! 👋 I'm Koteswara Rao Dokkari
+## Hi there! 👋 I'm Koteswara Rao Dokkari
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kotesh-dokkari-188605157/)
-[![Email](https://img.shields.io/badge/Email-Koteshd@gmail.com-red)](mailto:Koteshdokkari@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Bangalore%2C%20India-green)](#)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--9505280192-orange)](#)
+**2026 B.Tech CSE Graduate | Aspiring Data Engineer & AI Engineer | Immediate Joiner**  
+Actively seeking **Entry-Level / Fresher (0–1 Yr)** opportunities in **Data Engineering, ETL/SQL/Python Development, and Generative AI Engineering** across **Bengaluru & Hyderabad**.
 
-## 💼 Professional Summary
-
-**Python Developer** specializing in backend web applications, data migration, and cloud technologies. Recently completed an intensive AWS internship with **Daimler Trucks North America**, focusing on end-to-end ETL pipelines and data integration. Passionate about building scalable applications and solving complex technical challenges.
-
-## 🛠️ Technical Skills
-
-### Languages & Frameworks
-- **Python** | Django | RESTful APIs
-- SQL | Snowflake
-- JavaScript | HTML5 | CSS3
-
-### Cloud & DevOps
-- **AWS**: EC2, S3, IAM, CloudWatch, VPC
-- **DevOps**: GitLab CI/CD, Docker, SonarQube
-- **ETL**: Matillion, Snowflake
-
-### AI & Advanced Tools
-- LangChain | Agent AI | MCP | RAG
-- Shell Scripting | Linux
-- Git | GitHub | Jira
-
-## 💼 Professional Experience
-
-### AWS Intern - Python Developer
-**ExcelR (Client: Daimler Trucks North America)** | Bengaluru  
-*June 2024 - December 2024*
-
-🚀 **Key Project**: Online Warranty Link (OWL) System - Data Migration
-
-- Migrated legacy data from **IBM DB2** to **Snowflake** using ETL pipelines
-- Developed views, stored procedures, and staging tables for data validation
-- Built **Matillion pipelines** for orchestration and transformation
-- Automated data validation using **Python scripts** for source vs target reconciliation
-- Implemented **CRON jobs** with UTC time handling for daily data loads
-- Collaborated with QA teams to ensure data quality and migration accuracy
-
-**Technologies**: IBM DB2, Snowflake, Matillion, Python, Salesforce, CRON, Excel, Git, Jira
-
-## 🚀 Featured Projects
-
-### 🌦️ [WeatherAPI.com Data Integration](https://github.com/DkTheBeast07/django-weather-dashboard.git)
-**Django | Docker | API Integration**
-
-Real-time weather data collection and visualization platform with dynamic dashboards and statistical analysis.
-
-**Key Achievements**:
-- 📈 Improved codebase efficiency by **15%**
-- 📊 Enhanced client reporting accuracy by **20%**
-- 🐳 Containerized with Docker for seamless deployment
-
-**Tech Stack**: Python, Django, WeatherAPI.com, Docker, Docker Compose, Data Visualization
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20(Immediate%20Joiner)-brightgreen)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/kotesh-dokkari-188605157/)
+[![Email](https://img.shields.io/badge/Email-Koteshdokkari%40gmail.com-D14836?logo=gmail)](mailto:Koteshdokkari@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-blue)](#)
 
 ---
 
-### 🚗 [Car Marketplace - Carzone](https://github.com/DkTheBeast07/DK-car-project.git)
-**Django | Full-Stack | SQLite**
-
-Comprehensive car marketplace platform with user authentication, advanced search, and dynamic filtering.
-
-**Key Features**:
-- 🔐 User authentication & role-based access control
-- 🔍 Advanced search algorithms with dynamic filtering
-- 📧 Automated email notifications
-- 📱 Mobile-first responsive design
-- 🚀 Reduced application loading time by **50%**
-
-**Tech Stack**: Python, Django, SQLite, HTML5, CSS3, JavaScript, RESTful APIs, MVT Architecture
-
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science and Engineering**  
-Jawaharlal Nehru Technological University (JNTU), Visakhapatnam  
-*June 2022 - April 2025*
-
-**Central Institute of Plastics Engineering and Technology (CIPET)**  
-Anna University, Vijayawada
-
-## 🏆 Achievements
-
-- ⚡ **Reduced Application Loading Time by 50%** - Optimized web application performance
-- 📈 **15% Increase in Codebase Efficiency** - Improved maintainability and code quality
-- 🎯 **20% Improvement in Reporting Accuracy** - Enhanced data visualization and analysis
-- 🚀 Successfully delivered end-to-end ETL migration for enterprise client
-
-## 📚 Currently Learning
-
-- Advanced AI/ML concepts with LangChain and RAG
-- Microservices architecture
-- Advanced AWS services and cloud-native development
-- System design and scalability patterns
-
-## 🤝 Let's Connect!
-
-I'm always interested in collaborating on:
-- 🐍 Python/Django projects
-- ☁️ Cloud & DevOps initiatives
-- 📊 Data engineering and ETL pipelines
-- 🌐 Open source contributions
-
-Feel free to reach out for collaboration opportunities or just to connect!
+### 💡 About Me
+I am a **2026 Computer Science & Engineering graduate** with **3 months of hands-on Data Engineering internship experience** building production streaming pipelines and automated data quality checks. Coming from a hands-on engineering background, I learn by building and debugging real systems locally on **Linux/WSL2 and Docker**—focusing on reliable ETL pipelines, clean SQL data modeling, and practical LLM/RAG workflows.
 
 ---
+
+### 🛠️ Core Technical Skills
+- **Programming & Data Processing:** Python, Django, FastApi, SQL (PostgreSQL, Joins, CTEs, Window Functions, Stored Procedures), Pandas, PyArrow, Bash
+- **Databases & Data Warehouses:** PostgreSQL, TimescaleDB, Amazon Redshift, Snowflake, DynamoDB
+- **Data Engineering, Streaming & Cloud (AWS):** Apache Kafka, Apache NiFi, AWS (S3, Lambda, SQS, SNS, EventBridge, CloudWatch, ECS)
+- **Generative AI & Agentic Workflows:** RAG Pipelines, LangChain, LangGraph, LangSmith, CrewAI, AutoGen, MCP, Local LLMs (Ollama)
+- **Developer Tools & Environment:** Git, GitHub (SSH, Feature Branching, PRs), Docker, Docker Compose, Linux / WSL2
+
+---
+
+### 💼 Practical Experience
+#### Data Engineer Intern — Dehaze Labs | Bengaluru, India
+*February 2026 – April 2026*
+- **Pipeline Reliability & Refactoring:** Split a monolithic Python **Apache Kafka** consumer into independent single-sink services for **TimescaleDB** and **Amazon Redshift**, eliminating partial write failures across downstream sinks.
+- **Automated Data Reconciliation:** Built **SQL anti-join** and **Python (Pandas)** validation checks to backfill ~63K missing records after a pipeline outage with zero duplicates, and turned it into a daily automated row-count check.
+
+---
+
+### 🚀 Hands-On Projects (Proof of Work)
+- **[Time-Partitioned Data Lake Pipeline](https://github.com/DkTheBeast07/data-lake-pipeline)** — *Python, Pandas, PyArrow*  
+  Built an end-to-end partitioned data lake pipeline implementing date-based partition pruning, small-file compaction/avoidance, and automated schema and null-check enforcement before storage.
+- **[Serverless Sales ETL Pipeline](https://github.com/DkTheBeast07/aws-lambda)** — *AWS Lambda, Python*  
+  Designed an event-driven serverless pipeline to ingest, validate, and transform raw sales records automatically on file arrival.
+- **[Resume Ranker](https://github.com/DkTheBeast07/resume-ranker)** — *Python*  
+  Developed an automated text-processing and ranking tool that scores candidate resumes against job description skill requirements.
+
+---
+
+### 🏆 Certifications (2026)
+- **Oracle Cloud Infrastructure (OCI) AI Foundations Associate (2026)**
+- **Oracle Cloud Infrastructure (OCI) Agentic AI Foundations Associate (2026)**
+- **Agentic AI for Oracle AI Database Professional (2026)**
+
+---
+
+### 🎓 Education
+- **B.Tech in Computer Science and Engineering** *(2022 – 2026)*
+
+---
+## Currently Learning
+
+Airflow orchestration, dbt, AWS data pipelines, Generative AI & Agentic Workflows (LLM Engineering, QLoRA, RAG & MCP)
+---
+
 
 <div align="center">
   
@@ -115,3 +66,8 @@ Feel free to reach out for collaboration opportunities or just to connect!
 ![Profile Views](https://komarev.com/ghpvc/?username=DkTheBeast07&color=blue&style=flat-square)
 
 </div>
+---
+
+### 📫 Let's Connect
+Looking for **Fresher / Junior Data Engineer, ETL SQL/Python Engineer, or AI Data Engineer** roles where I can contribute to production data pipelines and backend/AI systems from Day 1.  
+Reach out via **[LinkedIn](https://www.linkedin.com/in/kotesh-dokkari-188605157/)** or **[Koteshdokkari@gmail.com](mailto:Koteshdokkari@gmail.com)**.
